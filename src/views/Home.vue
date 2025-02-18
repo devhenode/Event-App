@@ -4,7 +4,7 @@
     <section class="hero is-dark">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Welcome to the Animal Rescue League</h1>
+          <h1 class="title">Welcome to my Event Management App</h1>
           <h2 class="subtitle">
             Make sure you check out our upcoming events below
           </h2>
